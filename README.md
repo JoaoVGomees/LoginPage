@@ -13,7 +13,7 @@ Certifique-se de ter as seguintes ferramentas instaladas em sua máquina:
 1. Clone o repositório e navegue até a pasta do projeto:
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/JoaoVGomees/LoginPage.git
    cd seu-repositorio
 
 2. Instale as dependências:
